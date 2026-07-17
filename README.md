@@ -1,3 +1,4 @@
+<img width="2317" height="1075" alt="Untitled Document 2 (3)" src="https://github.com/user-attachments/assets/5b226afa-d724-43c9-bfa1-a6b756eb9e5a" />
 
 
 # Arduino Uno Q — Ultimate Headless Bluetooth Audio Setup Guide
