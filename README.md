@@ -1,10 +1,4 @@
-# Arduino-Uno-Q-Ultimate-Headless-Bluetooth-Audio-Setup-Guide
-guide for setting up headless Bluetooth audio on the Arduino Uno Q.
-Here is the ultimate, comprehensive, production-ready guide for setting up headless Bluetooth audio on the **Arduino Uno Q**.
 
-This document includes the root cause architecture, step-by-step resolution, automation persistence (so it survives reboots), and headless command-line media playback tricks. You can save this text directly as a `README.md` file in your GitHub repository.
-
----
 
 # Arduino Uno Q — Ultimate Headless Bluetooth Audio Setup Guide
 
