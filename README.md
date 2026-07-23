@@ -5,6 +5,7 @@
 
 This comprehensive guide walks you through fixing the stubborn `br-connection-profile-unavailable` or `Protocol not available` errors when pairing Bluetooth audio devices (speakers, headphones, amplifiers) to the **Arduino Uno Q** running a headless Debian distribution over SSH.
 
+- Please make comments to review or ask anything
 ---
 
 ## 🛠️ The Architecture: Why Does it Fail out of the Box?
